@@ -11,6 +11,8 @@ npm install bit-bin --global
 yarn global add bit-bin
 ```
 
+Testing wsh4andri
+
 ####
 File dengan extensi jsx > layout
 File dengan nama index.js > logic
